@@ -17,8 +17,8 @@ cd <project-directory>
 
 ### 2. Import the Database
 
-- Import the database files from the `dbFiles` folder using your preferred database tool (e.g., MySQL Workbench, phpMyAdmin).
-- Make sure your database connection details (host, port, user, password, database name) are correctly set in the `.env` file.
+- Import the database files from the `dbFiles` folder using mongoDbCompass
+
 
 ### 3. Install Dependencies
 
