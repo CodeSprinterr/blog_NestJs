@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "681b2f5429c0d1bb0868e529"
+  },
+  "title": "Tech in 2025",
+  "blog_image_url": "https://images.unsplash.com/photo-1533167649158-6d508895b680?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "content": "Exploring the latest in AI, IoT, and more...",
+  "category": {
+    "$oid": "681b2f5429c0d1bb0868e522"
+  },
+  "author": {
+    "$oid": "681c861e2b191d68061349b5"
+  },
+  "createdAt": {
+    "$date": "2025-05-07T10:00:52.834Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-07T10:00:52.834Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681b2f5429c0d1bb0868e52a"
+  },
+  "title": "Healthy Living Tips",
+  "blog_image_url": "https://images.unsplash.com/photo-1508252568242-e0f383f753d6?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "content": "How to maintain a balanced lifestyle.",
+  "category": {
+    "$oid": "681b2f5429c0d1bb0868e523"
+  },
+  "author": {
+    "$oid": "681c861e2b191d68061349b5"
+  },
+  "createdAt": {
+    "$date": "2025-05-07T10:00:52.834Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-07T10:00:52.834Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "681b2f5429c0d1bb0868e51e"
+  },
+  "name": "Demo User",
+  "email": "demo@example.com",
+  "password": "$2b$10$examplehashvaluefrombcrypt",
+  "createdAt": {
+    "$date": "2025-05-07T10:00:52.615Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-07T10:00:52.615Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c861e2b191d68061349b5"
+  },
+  "name": "Aakash Vaidya",
+  "email": "aakashvaidya007@gmail.com",
+  "password": "$2b$10$yMPsE91Z0AHmFgAuCDrSJ.TdbHnw4EQUHDnEmiyJH485GnMIz64Fe",
+  "createdAt": {
+    "$date": "2025-05-08T10:23:26.089Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T10:23:26.089Z"
+  },
+  "__v": 0
+}]
